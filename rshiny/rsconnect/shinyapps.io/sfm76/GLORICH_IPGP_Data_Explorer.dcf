@@ -1,0 +1,13 @@
+name: GLORICH_IPGP_Data_Explorer
+title: GLORICH_IPGP_Data_Explorer
+username:
+account: sfm76
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9500408
+bundleId: 7493871
+url: https://sfm76.shinyapps.io/GLORICH_IPGP_Data_Explorer/
+when: 1690275039.55574
+lastSyncTime: 1690275039.55579
+asMultiple: FALSE
+asStatic: FALSE
