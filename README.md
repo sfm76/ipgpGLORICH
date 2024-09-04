@@ -12,3 +12,7 @@ The dashboard also shows the distribution of just the bicarbonate ion data.
 
 The areas of exploration were the lithology of the soil around the tributary, which might change the behavior in the carbon uptake of the water. 
 I also explored the climate in certain regions to understand the atmospheric impact on carbon sequestration.
+
+See the final results here: 
+
+https://sfm76.shinyapps.io/GLORICH_IPGP_Data_Explorer/ 
